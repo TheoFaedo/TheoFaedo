@@ -1,0 +1,1 @@
+[![Angular Senior Certificate](https://img.shields.io/badge/Angular_Certified-Senior-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a2ce000b-7b5e-4375-bfcf-52f803b44382)
