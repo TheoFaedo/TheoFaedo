@@ -5,13 +5,10 @@ Full-stack developer passionate about building modern, high-performance, and enj
 
 [![Angular Senior Certificate](https://img.shields.io/badge/Angular_Certified-Senior-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a2ce000b-7b5e-4375-bfcf-52f803b44382)
 
-<a href="https://www.credly.com/badges/bb12e66c-1748-4085-81f2-10a16d4a35cf">
-  <img
-    src="https://images.credly.com/size/680x680/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob"
-    alt="Claude Certified Developer – Foundations"
-    width="100"
-  />
-</a>
+<p align="left">
+<a href="https://www.credly.com/badges/20cb4cc1-3301-4036-b597-3ac97a1b7e2b/public_url"><img src="https://images.credly.com/size/340x340/images/b66b4371-79e3-45ae-9db9-3af1b7d2bdec/image.png" alt="Spring Certified Professional 2024" width="100"></a>
+<a href="https://www.credly.com/badges/bb12e66c-1748-4085-81f2-10a16d4a35cf/public_url"><img src="https://images.credly.com/size/680x680/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob" alt="Claude Certified Developer – Foundations" width="100"></a>
+</p>
 
 ## Tech Stack
 
